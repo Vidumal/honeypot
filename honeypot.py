@@ -16,3 +16,22 @@ def start_honeypot(ip='0.0.0.0', port=2222):
         print(f"Error: {e}")
         return
 
+while True:
+       
+        client_socket, addr = s.accept()
+        print(f"[!] Alert: Connection from {addr[0]}:{addr[1]}")
+        logging.info(f"Connection from: {addr[0]}")
+
+        try:
+        
+            client_socket.send(b"Welcome to Ubuntu 20.04 LTS. Login: ")
+            
+            
+            data = client_socket.recv(1024)
+            print(f"[+] Attacker tried: {data.decode('utf-8').strip()}")
+            logging.info(f"Payload: {data.decode('utf-8').strip()}")
+            
+        
+            client_socket.close()
+        except Exception as e:
+            client_socket.close()
