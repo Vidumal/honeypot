@@ -10,3 +10,22 @@ LISTENERS = [
 ]
 
 logging.basicConfig(filename='multi_honey.log', level=logging.INFO, format='%(asctime)s - %(message)s')
+
+
+def handle_connection(client_socket, addr, service):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def start_listener(ip, port, service):
