@@ -35,3 +35,6 @@ while True:
             client_socket.close()
         except Exception as e:
             client_socket.close()
+if __name__ == "__main__":
+   
+    start_honeypot()
