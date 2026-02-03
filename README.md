@@ -5,7 +5,6 @@
 * **Live Logging:** Records timestamp, attacker IP, target service, and payload to both the console and a local log file (`multi_honey.log`).
 * **Configurable:** Easy to add or remove listeners via the Python configuration list.
 * **Standard Library Only:** No external `pip` dependencies required.
-
 ## ⚠️ Legal & Security Disclaimer
 **FOR EDUCATIONAL PURPOSES ONLY.**
 This software is intended for learning about network security, honeypots, and monitoring.
