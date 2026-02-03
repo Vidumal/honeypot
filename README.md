@@ -23,7 +23,7 @@ This software is intended for learning about network security, honeypots, and mo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/multi-service-honeypot.git](https://github.com/YOUR_USERNAME/multi-service-honeypot.git)
+    git clone [https://github.com/Vidumal/honeypot.git](https://github.com/Vidumal/honeypot.git)
     cd multi-service-honeypot
     ```
 
