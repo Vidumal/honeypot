@@ -27,8 +27,7 @@ This software is intended for learning about network security, honeypots, and mo
     python3 --version
     ```
 
-## ⚙️ Configuration
-Open `multi_honey.py` in your text editor. Locate the `LISTENERS` list at the top of the file to configure which ports and IPs to monitor.
+
 
 ```python
 # Format: ('IP_Address', Port, 'Service_Name')
