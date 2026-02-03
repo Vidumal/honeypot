@@ -34,5 +34,5 @@ This software is intended for learning about network security, honeypots, and mo
 LISTENERS = [
     ('0.0.0.0', 8080, 'HTTP_Alt'),      # Listens on all interfaces
     ('0.0.0.0', 2222, 'SSH_Alt'),
-    ('127.0.0.1', 9999, 'Internal_Test') # Localhost only
+    ('127.0.0.1', 9999, 'Internal_Test'st only
 ]
