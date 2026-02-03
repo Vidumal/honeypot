@@ -11,7 +11,7 @@
 This software is intended for learning about network security, honeypots, and monitoring.
 * **Do not** deploy this on a production server containing sensitive data.
 * **Do not** use this tool to engage in "hacking back" or aggressive countermeasures.
-* **Do not** run this on a network where you do not have permission to monitor traffic.
+* **Do not** run ths on a network where you do not have permission to monitor traffic.
 * The author is not responsible for any damage caused by the use of this tool.
 
 
