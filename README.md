@@ -1,6 +1,6 @@
 # Multi-Service Python Honeypot 🍯
 
-A lightweight, multi-threaded honeypot written in Python designed to simulate various network services (HTTP, SSH, FTP) simultaneously. This tool listens for incoming connections, logs the attacker's IP address, and captures the initial payload or command sent.
+
 
 **Current Status:** v1.0 (Educational/Prototype)
 
