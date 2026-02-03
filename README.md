@@ -16,11 +16,7 @@ This software is intended for learning about network security, honeypots, and mo
 
 
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/multi-service-honeypot.git](https://github.com/YOUR_USERNAME/multi-service-honeypot.git)
-    cd multi-service-honeypot
-    ```
+
 
 2.  **Ensure Python 3 is installed:**
     ```bash
