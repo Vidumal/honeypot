@@ -14,7 +14,7 @@ This software is intended for learning about network security, honeypots, and mo
 * **Do not** run this on a network where you do not have permission to monitor traffic.
 * The author is not responsible for any damage caused by the use of this tool.
 
-## 🚀 Installation
+
 
 1.  **Clone the repository:**
     ```bash
