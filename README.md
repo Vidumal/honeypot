@@ -1,7 +1,7 @@
 
 ## 📋 Features
 * **Multi-Threaded Architecture:** Listens on multiple ports and IP addresses at the same time without blocking.
-* **Service Simulation:** Mimics basic service banners (e.g., sending an Apache server header for HTTP or a ProFTPD banner for FTP).
+* **Service Simulation:** Mimics basic service banners (e.g., sending an Apache server header for HTTP or a ProFTPD banner for FTP)
 * **Live Logging:** Records timestamp, attacker IP, target service, and payload to both the console and a local log file (`multi_honey.log`).
 * **Configurable:** Easy to add or remove listeners via the Python configuration list.
 * **Standard Library Only:** No external `pip` dependencies required.
